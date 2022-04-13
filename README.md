@@ -1,4 +1,4 @@
-# Bioinformatics Training Materials
+# A Collection of Bioinformatics Training Materials
 
 [![DOI](https://zenodo.org/badge/437832906.svg)](https://zenodo.org/badge/latestdoi/437832906)
 ![lychee workflow](https://github.com/sib-swiss/training-collection/actions/workflows/lychee-action.yml/badge.svg)
