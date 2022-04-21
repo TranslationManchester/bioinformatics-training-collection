@@ -8,9 +8,8 @@
 
 A curated list of **bioinformatics training material**. All material is:
 
-- In a GitHub or GitLab repository
+- From a GitHub or GitLab repository or University/Institution Training Courses
 - Free to use
-- Written in markdown or similar
 
 
  
@@ -18,6 +17,7 @@ Any contribution to this list is highly appreciated.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 ## Contents
 
 - [Scripting and languages](#scripting-and-languages)
