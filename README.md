@@ -36,10 +36,6 @@ Any contribution to this list is highly appreciated.
   - [Metagenomics](#metagenomics)
 - [Computational methods and pipelines](#computational-methods-and-pipelines)
   - [Containers](#containers)
-  - [Nextflow](#nextflow)
-  - [Snakemake](#snakemake)
-  - [Galaxy](#galaxy)
-  - [CWL](#cwl)
   - [High performance computing](#high-performance-computing)
 - [Statistics and machine learning](#statistics-and-machine-learning)
   - [Statistics](#statistics)
@@ -136,7 +132,7 @@ Any contribution to this list is highly appreciated.
 - [**bioinformaticsworkbook.org** Variant Discovery](https://github.com/ISUgenomics/bioinformatics-workbook) | [website](https://bioinformaticsworkbook.org/dataAnalysis/VariantCalling/variant-calling-index.html#gsc.tab=0)
 - [**WEHI** A introduction to SNV analyses in whole genome sequencing](https://github.com/PapenfussLab/IntroductionToGenomicsWorkshop/) | [website](https://papenfusslab.github.io/IntroductionToGenomicsWorkshop/)
 - [**Waldron lab CUNY** Copy number variation analysis with Bioconductor](https://github.com/waldronlab/CNVWorkshop) | [website](https://waldronlab.io/CNVWorkshop/)
-- [**Sateesh Peri** Nextflow Tutorial - Variant Calling Edition](https://github.com/sateeshperi/nextflow_varcal) | [website](https://sateeshperi.github.io/nextflow_varcal/nextflow/)
+
 
 ### Genome assembly
 
@@ -155,24 +151,7 @@ Any contribution to this list is highly appreciated.
 - [**Carpentries** Reproducible computational environments using containers: Introduction to Singularity](https://github.com/carpentries-incubator/singularity-introduction) | [website](https://carpentries-incubator.github.io/singularity-introduction/)
 - [**rOpenSci Labs** R Docker tutorial](https://github.com/jsta/r-docker-tutorial) | [website](https://jsta.github.io/r-docker-tutorial/)
 
-### Nextflow
 
-- [**CRG SIB** Reproducible research and data analysis using Nextflow pipelines](https://github.com/biocorecrg/SIB_course_nextflow_Nov_2021) | [website](https://biocorecrg.github.io/SIB_course_nextflow_Nov_2021/docs/)
-- [**Carpentries** Introduction to Bioinformatics workflows with Nextflow and nf-core](https://github.com/carpentries-incubator/workflows-nextflow) | [website](https://carpentries-incubator.github.io/workflows-nextflow/)
-- [**CRG BovReg** Nextflow training](https://github.com/bovreg/nf-workshop20) | [website](https://bovreg.github.io/nf-workshop20/)
-- [**CRG** Reproducible research and data analysis with Linux containers and Nextflow pipelines](https://github.com/biocorecrg/CoursesCRG_Containers_Nextflow_May_2021) | [website](https://biocorecrg.github.io/CoursesCRG_Containers_Nextflow_May_2021/)
-- [**CRUK CI** nextflow_september_2021](https://github.com/bioinformatics-core-shared-training/nextflow_september_2021) 
-- [**Sateesh Peri** Nextflow Tutorial - Variant Calling Edition](https://github.com/sateeshperi/nextflow_varcal) | [website](https://sateeshperi.github.io/nextflow_varcal/nextflow/)
-
-### Snakemake
-
-- [**Snakemake** Snakemake Tutorial](https://github.com/snakemake/snakemake) | [website](https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html)
-- [**Carpentries** Snakemake for Bioinformatics](https://github.com/carpentries-incubator/snakemake-novice-bioinformatics) | [website](https://carpentries-incubator.github.io/snakemake-novice-bioinformatics/)
-- [**Carpentries** Getting Started with Snakemake](https://github.com/carpentries-incubator/workflows-snakemake) | [website](https://carpentries-incubator.github.io/workflows-snakemake/)
-
-### Galaxy
-
-- [**Galaxy** Training](https://github.com/galaxyproject/training-material) | [website](https://training.galaxyproject.org/training-material/)
 
 ### CWL
 
