@@ -4,6 +4,7 @@
 ![lychee workflow](https://github.com/sib-swiss/training-collection/actions/workflows/lychee-action.yml/badge.svg)
 ![toc workflow](https://github.com/sib-swiss/training-collection/actions/workflows/toc-generator.yml/badge.svg)
 
+## Preface
 
 A curated list of **bioinformatics training material**. All material is:
 
