@@ -27,13 +27,13 @@ Any contribution to this list is highly appreciated.
   - [git](#git)
 - [Sequence data analysis](#sequence-data-analysis)
   - [General](#general)
-  - [Miscellaneous](#miscellaneous)
   - [RNA-seq](#rna-seq)
   - [ChIP-seq](#chip-seq)
   - [Single cell](#single-cell)
   - [Variant analysis](#variant-analysis)
   - [Genome assembly](#genome-assembly)
   - [Metagenomics](#metagenomics)
+  - [Miscellaneous](#miscellaneous)
 - [Computational methods and pipelines](#computational-methods-and-pipelines)
   - [Containers](#containers)
   - [High performance computing](#high-performance-computing)
@@ -83,17 +83,8 @@ Any contribution to this list is highly appreciated.
 - [**Harvard Chan Bioinformatics Core** Accessing genomic reference and experimental sequencing data](https://github.com/hbctraining/Accessing_public_genomic_data) | [website](https://hbctraining.github.io/Accessing_public_genomic_data/)
 - [**CRUK** Workshop on Functional Genomics - summer school 2020](https://github.com/bioinformatics-core-shared-training/cruk-summer-school-2020) | [website](https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2020/)
 
-### Miscellaneous
-
-- [**James W. MacDonald** Introduction to Bioconductor annotation resources](https://github.com/jmacdon/Bioc2020Anno) | [website](https://jmacdon.github.io/Bioc2020Anno/)
-- [**Waldron lab CUNY** Public data resources and Bioconductor](https://github.com/jmacdon/Bioc2020Anno) | [website](https://waldronlab.io/PublicDataResources/)
-- [**Waldron lab CUNY** Functional enrichment analysis of high-throughput omics data](https://github.com/waldronlab/enrichOmics) | [website](https://waldronlab.io/enrichOmics/)
-- [**WEHI**  Gene-set enrichment analysis workshop](https://github.com/DavisLaboratory/GenesetAnalysisWorkflow/) | [website](https://davislaboratory.github.io/GenesetAnalysisWorkflow/)
-- [**Waldron lab CUNY** Multi-omic Integration of cBioPortal and TCGA data with MultiAssayExperiment](https://github.com/waldronlab/MultiAssayWorkshop/) | [website](https://waldronlab.io/MultiAssayWorkshop/)
-- [**SIB** Enrichment Analysis](https://github.com/sib-swiss/enrichment-analysis-training/) | [website](https://sib-swiss.github.io/enrichment-analysis-training/)
-
 ### RNA-seq
-
+- [**UoM Bioinformatics Core Facilities** Guide to RNA-Seq Analysis](https://ycl6.gitbook.io/guide-to-rna-seq-analysis/)
 - [**SIB** Introduction to RNA-Seq: From quality control to pathway analysis](https://github.com/sib-swiss/RNAseq-introduction-training) | [website](https://sib-swiss.github.io/RNAseq-introduction-training/)
 - [**Carpentries** RNA-seq analysis with Bioconductor](https://github.com/carpentries-incubator/bioc-rnaseq) | [website](https://carpentries-incubator.github.io/bioc-rnaseq/)
 - [**bioinformaticsworkbook.org** RNA-Seq data Analysis](https://github.com/ISUgenomics/bioinformatics-workbook) | [website](https://bioinformaticsworkbook.org/dataAnalysis/RNA-Seq/RNA-SeqIntro/RNAseq-using-a-genome.html#gsc.tab=0)
@@ -141,6 +132,16 @@ Any contribution to this list is highly appreciated.
 ### Metagenomics
 
 - [**Waldron lab CUNY**  Curated Metagenomic Analyses](https://github.com/waldronlab/curatedMetagenomicDataAnalyses) | [website](https://waldronlab.io/curatedMetagenomicDataAnalyses/)
+
+
+### Miscellaneous
+
+- [**James W. MacDonald** Introduction to Bioconductor annotation resources](https://github.com/jmacdon/Bioc2020Anno) | [website](https://jmacdon.github.io/Bioc2020Anno/)
+- [**Waldron lab CUNY** Public data resources and Bioconductor](https://github.com/jmacdon/Bioc2020Anno) | [website](https://waldronlab.io/PublicDataResources/)
+- [**Waldron lab CUNY** Functional enrichment analysis of high-throughput omics data](https://github.com/waldronlab/enrichOmics) | [website](https://waldronlab.io/enrichOmics/)
+- [**WEHI**  Gene-set enrichment analysis workshop](https://github.com/DavisLaboratory/GenesetAnalysisWorkflow/) | [website](https://davislaboratory.github.io/GenesetAnalysisWorkflow/)
+- [**Waldron lab CUNY** Multi-omic Integration of cBioPortal and TCGA data with MultiAssayExperiment](https://github.com/waldronlab/MultiAssayWorkshop/) | [website](https://waldronlab.io/MultiAssayWorkshop/)
+- [**SIB** Enrichment Analysis](https://github.com/sib-swiss/enrichment-analysis-training/) | [website](https://sib-swiss.github.io/enrichment-analysis-training/)
 
 ## Computational methods and pipelines
 
