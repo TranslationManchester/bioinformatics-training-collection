@@ -16,7 +16,7 @@ Any contribution to this list is highly appreciated.
 
 ## Contents
 
-- [Scripting and languages](#scripting-and-languages)
+- [Scripting and programming languages](#scripting-and-programming-languages)
   - [UNIX shell](#unix-shell)
   - [Python](#python)
   - [R](#r)
