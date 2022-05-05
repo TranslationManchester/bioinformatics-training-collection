@@ -9,7 +9,6 @@ A curated list of **bioinformatics training material**. All material is:
 - Free to use
 
 
- 
 Any contribution to this list is highly appreciated.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
