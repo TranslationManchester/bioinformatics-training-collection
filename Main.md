@@ -8,7 +8,8 @@ A curated list of **bioinformatics training material**. All material is:
 - From a GitHub or GitLab repository or University/Institution Training Courses
 - Free to use
 
-
+In the Table of Contents, we break down training materials into five main categories of
+bioinformatics skill. 
 Any contribution to this list is highly appreciated.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
