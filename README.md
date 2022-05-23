@@ -40,4 +40,7 @@ Any contribution to this list is highly appreciated.
   - [Reproducibility](reproducibility-and-data-management.md#reproducibility)
   - [Data management](reproducibility-and-data-management.md#data-management)
 
+
+- [Other Collections of Bioinformatics Resources](other-collections.md#other-collections-of-bioinformatics-resources)
+
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
