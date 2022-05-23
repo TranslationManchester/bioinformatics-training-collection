@@ -9,7 +9,7 @@
 - [CRUK CI Bioinformatics Core](https://github.com/bioinformatics-core-shared-training)
 
 
-- [SIB Swiss Institute of Bioinformatics](https://github.com/sib-swiss)
+- [SIB Swiss Institute of Bioinformatics](https://github.com/sib-swiss) | [SIB Training Portal](https://edu.sib.swiss)
  
 
 - [Teaching materials at the Harvard Chan Bioinformatics Core](https://github.com/hbctraining/)
