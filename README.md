@@ -15,8 +15,8 @@ Any contribution to this list is highly appreciated.
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-## Contents
-- [Scripting and programming languages](scripting-and-programming-languages#scripting-and-programming-languages)
+## Contents 
+- [Scripting and programming languages](scripting-and-programming-languages.md#scripting-and-programming-languages)
   - [UNIX shell](scripting-and-programming-languages.md#unix-shell)
   - [Python](scripting-and-programming-languages.md#python)
   - [R](scripting-and-programming-languages.md#r)
