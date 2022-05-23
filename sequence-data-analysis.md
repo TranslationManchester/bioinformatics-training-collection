@@ -58,9 +58,6 @@ EMBL
 
 - [**bioinformaticsworkbook.org** Introduction to Genome Assembly](https://github.com/ISUgenomics/bioinformatics-workbook) | [website](https://bioinformaticsworkbook.org/dataAnalysis/GenomeAssembly/Intro_GenomeAssembly.html#gsc.tab=0)
 
-### Metagenomics
-
-- [**Waldron lab CUNY**  Curated Metagenomic Analyses](https://github.com/waldronlab/curatedMetagenomicDataAnalyses) | [website](https://waldronlab.io/curatedMetagenomicDataAnalyses/)
 
 
 ### Miscellaneous
