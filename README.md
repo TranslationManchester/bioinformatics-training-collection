@@ -27,8 +27,7 @@ Any contribution to this list is highly appreciated.
   - [ChIP-seq](sequence-data-analysis.md#chip-seq)
   - [Single cell](sequence-data-analysis.md#single-cell)
   - [Variant analysis](sequence-data-analysis.md#variant-analysis)
-  - [Genome assembly](sequence-data-analysis.md#genome-assembly)
-  - [Metagenomics](sequence-data-analysis.md#metagenomics)
+  - [Genome assembly](sequence-data-analysis.md#genome-assembly) 
   - [Miscellaneous](sequence-data-analysis.md#miscellaneous)
 - [Computational methods and pipelines](computational-methods-and-pipelines.md#computational-methods-and-pipelines)
   - [Containers](computational-methods-and-pipelines.md#containers)
@@ -39,8 +38,6 @@ Any contribution to this list is highly appreciated.
 - [Reproducibility and data management](reproducibility-and-data-management.md#reproducibility-and-data-management)
   - [Reproducibility](reproducibility-and-data-management.md#reproducibility)
   - [Data management](reproducibility-and-data-management.md#data-management)
-
-
 - [Other Collections of Bioinformatics Resources](other-collections.md#other-collections-of-bioinformatics-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
