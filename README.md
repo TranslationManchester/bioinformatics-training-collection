@@ -16,9 +16,9 @@ Any contribution to this list is highly appreciated.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 ## Contents
-
+https://github.com/TranslationManchester/bioinformatics-training-collection/blob/main/main.md#unix-shell
 - [Scripting and programming languages](#scripting-and-programming-languages)
-  - [UNIX shell](#unix-shell)
+  - [UNIX shell](main.md#unix-shell)
   - [Python](#python)
   - [R](#r)
   - [git](#git)
