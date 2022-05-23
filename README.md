@@ -21,7 +21,7 @@ Any contribution to this list is highly appreciated.
   - [Python](scripting-and-programming-languages.md#python)
   - [R](scripting-and-programming-languages.md#r)
   - [git](scripting-and-programming-languages.md#git)
-- [Sequence data analysis](sequence-data-analysis.md#sequence-data-analysis)
+- [Next-Generation Sequencing (NGS)](sequence-data-analysis.md#sequence-data-analysis)
   - [General](sequence-data-analysis.md#general)
   - [RNA-seq](sequence-data-analysis.md#rna-seq)
   - [ChIP-seq](sequence-data-analysis.md#chip-seq)

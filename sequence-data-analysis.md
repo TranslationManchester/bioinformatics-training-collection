@@ -1,5 +1,5 @@
 
-## Sequence data analysis
+## Next-Generation Sequencing (NGS)
 
 ### General
 
