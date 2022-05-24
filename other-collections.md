@@ -16,6 +16,8 @@
 
 - [Teaching materials at the Harvard Chan Bioinformatics Core](https://github.com/hbctraining/)
 
+- [National Bioinformatics Infrastructure Sweden(NBIS)](https://github.com/NBISweden)
+
 - [The Monash Bioinformatics Platform](https://www.monash.edu/researchinfrastructure/bioinformatics/training)
 
 ### Online registry/training portals
