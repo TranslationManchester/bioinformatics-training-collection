@@ -1,6 +1,6 @@
 
 ## Next-Generation Sequencing (NGS)
-
+---
 ### General
 
 - **EMBL Online Tutorial** Functional genomics 
