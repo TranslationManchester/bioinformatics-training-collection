@@ -1,6 +1,6 @@
 
 ## Next-Generation Sequencing (NGS)
----
+
 ### General
 
 - **EMBL Online Tutorial** Functional genomics 
@@ -30,9 +30,13 @@
 	> Course designed for using a dedicated computer cluster 
 
 - [**Harvard Chan Bioinformatics Core** Introduction to bulk RNA-seq](https://github.com/hbctraining/Intro-to-rnaseq-hpc-salmon-flipped) | [website](https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/schedule/links-to-lessons.html)
+
 - [**Harvard Chan Bioinformatics Core** Differential Gene Expression Analysis](https://github.com/hbctraining/DGE_workshop_salmon_online) | [website](https://hbctraining.github.io/DGE_workshop_salmon_online/schedule/links-to-lessons.html)
+
 - [**CRUK CI** Introduction to Bulk RNA-seq data analysis](https://github.com/bioinformatics-core-shared-training/Bulk_RNASeq_Course_Nov21) | [website](https://bioinformatics-core-shared-training.github.io/Bulk_RNASeq_Course_Nov21/)
+
 - [**Stefano Mangiola** A Tidy Transcriptomics introduction to RNA sequencing analyses](https://github.com/stemangiola/bioc_2020_tidytranscriptomics/) | [website](https://stemangiola.github.io/bioc_2020_tidytranscriptomics/)
+
 - [**WEHI** Workshop: RNA-seq analysis is easy as 1-2-3 with limma, Glimma and edgeR](https://github.com/XueyiDong/RNAseq123workshop/) | [website](https://xueyidong.github.io/RNAseq123workshop/index.html)
 
 - [**EBI** Bulk RNA-seq tutorial](https://gitlab.com/mperalc/bulk_RNA-seq_workshop_2021/) | [website](https://mperalc.gitlab.io/bulk_RNA-seq_workshop_2021/)
@@ -47,16 +51,32 @@
 ### Single cell
 
 - [**SIB** Single-cell Transcriptomics](https://github.com/sib-swiss/single-cell-training/) | [website](https://sib-swiss.github.io/single-cell-training/latest/)
-- [**SIB NBIS/SciLifeLab** Advanced topics in Single Cell Omics](https://github.com/NBISweden/single-cell_sib_scilifelab_2021) | [website](https://nbisweden.github.io/single-cell_sib_scilifelab_2021/)
+
 - [**SIB** Advanced topics in single-cell transcriptomics](https://github.com/fmicompbio/adv_scrnaseq_2020)
-- [**CRUK CI** Introduction to single-cell RNA-seq data analysis](https://github.com/bioinformatics-core-shared-training/UnivCambridge_ScRnaSeq_Nov2021/) | [website](https://bioinformatics-core-shared-training.github.io/UnivCambridge_ScRnaSeq_Nov2021/)
-- [**NBIS** Single cell RNA-seq analysis workshop](https://github.com/nbisweden/workshop-scRNAseq) | [website](https://nbisweden.github.io/workshop-scRNAseq/)
+
+- [**SIB NBIS/SciLifeLab** Advanced topics in Single Cell Omics](https://github.com/NBISweden/single-cell_sib_scilifelab_2021) | [website](https://nbisweden.github.io/single-cell_sib_scilifelab_2021/)
+
 - [**MGC/BioSB** Course - Single Cell Analysis](https://github.com/LeidenCBC/MGC-BioSB-SingleCellAnalysis2021)
+
+- [**Cambridge Bioinformatics Training Unit** Analysis of single cell RNA-seq data](https://github.com/hemberg-lab/scRNA.seq.course) | [website](https://www.singlecellcourse.org/index.html)
+
+- [**University of Cambridge / CRUK** Introduction to single-cell RNA-seq data analysis](https://bioinformatics-core-shared-training.github.io/UnivCambridge_ScRnaSeqIntro_Feb2022/)
+ 
+- [**NBIS** Single cell RNA-seq analysis workshop](https://github.com/nbisweden/workshop-scRNAseq) | [website](https://nbisweden.github.io/workshop-scRNAseq/)
+
 - [**Harvard Chan Bioinformatics Core** Single-cell RNA-seq data analysis workshop](https://github.com/hbctraining/scRNA-seq_online) | [website](https://hbctraining.github.io/scRNA-seq_online/schedule/links-to-lessons.html)
-- [**WEHI**  Single cell RNA-seq analysis workshop](https://github.com/yunshun/SingleCellWorkshop/) | [website](https://yunshun.github.io/SingleCellWorkshop/)
+
+- [**WEHI**  Single cell RNA-seq analysis workshop](https://github.com/yunshun/SingleCellWorkshop/) | [website](
+https://yunshun.github.io/SingleCellWorkshop/)
+
 - [**Dana-Farber Cancer Institute** Trajectory inference across conditions: differential expression and differential progression](https://github.com/kstreet13/bioc2020trajectories) | [website](https://kstreet13.github.io/bioc2020trajectories/)
+
 - [**ELIXIR EXCELERATE** Single RNA-seq data analysis with R](https://github.com/NBISweden/excelerate-scRNAseq) | [website](https://nbisweden.github.io/excelerate-scRNAseq/)
+
 - [**EBI** Single cell RNA-seq tutorial](https://gitlab.com/mperalc/scRNA-seq_workshop_2021) | [website](https://mperalc.gitlab.io/scRNA-seq_workshop_2021/)
+
+
+
 
 ### Variant analysis
 

@@ -16,6 +16,8 @@
 
 - [Teaching materials at the Harvard Chan Bioinformatics Core](https://github.com/hbctraining/)
 
+- [The Monash Bioinformatics Platform](https://www.monash.edu/researchinfrastructure/bioinformatics/training)
+
 ### Online registry/training portals
 
  - [ELIXIR's TeSS](https://tess.elixir-europe.org/materials)

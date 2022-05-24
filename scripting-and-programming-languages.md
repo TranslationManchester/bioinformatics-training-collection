@@ -21,17 +21,26 @@
 - [**The Carpentries Incubator** Interactive Data Visualizations in Python](https://github.com/carpentries-incubator/python-interactive-data-visualizations) | [website](https://carpentries-incubator.github.io/python-interactive-data-visualizations/)
 
 ### R
+- [**N8CIR** Reproducible Analyses in R](https://n8cir.org.uk/events/event-resource/analyses-r/)
+	> Videos available: RStudio, tidyverse, ggplot
 
 - [**Carpentries** R for Reproducible Scientific Analysis](https://github.com/swcarpentry/r-novice-gapminder) | [website](https://swcarpentry.github.io/r-novice-gapminder/)
 	> Including an introduction to RStudio
+
 - [**SIB** First Steps with R in Life Sciences](https://github.com/sib-swiss/first-steps-with-R-training) 
 	> Slides, codes and datasets provided
+
 - [**Harvard Chan Bioinformatics Core** Introduction to R](https://github.com/hbctraining/Intro-to-R-flipped) | [website](https://hbctraining.github.io/Intro-to-R-flipped/schedules/links-to-lessons.html)
 	> RStudio
+
 - [**Harvard Chan Bioinformatics Core** Introduction to R - Practical workshop](https://github.com/hbctraining/Training-modules) | [website](https://hbctraining.github.io/Training-modules/IntroR_practical_online_resource/)
 	> RStudio
+
 - [**DKFZ** University of Heidelberg Basic R course](https://github.com/CompEpigen/BasicR/) 
 	> R Markdown
+
+- [**N8CIR** R for Text Analysis](https://n8cir.org.uk/events/event-resource/r-text-analysis/)
+	> Videos available
 
 
 
