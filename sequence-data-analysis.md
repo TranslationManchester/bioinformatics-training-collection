@@ -3,10 +3,11 @@
 
 ### General
 
-- [**EMBL Online Tutorial** Functional genomics I: Introduction and designing experiments](https://www.ebi.ac.uk/training/online/courses/functional-genomics-i-introduction-and-design/)
-- [**EMBL Online Tutorial** Functional genomics II: Common technologies and data analysis methods](https://www.ebi.ac.uk/training/online/courses/functional-genomics-ii-common-technologies-and-data-analysis-methods/)
-- [**EMBL Online Tutorial** Functional genomics III: Submitting your data and functional genomics databases](https://www.ebi.ac.uk/training/online/courses/functional-genomics-iii-submitting-data/)
- 
+- **EMBL Online Tutorial** Functional genomics 
+	- [I: Introduction and designing experiments](https://www.ebi.ac.uk/training/online/courses/functional-genomics-i-introduction-and-design/)
+	- [II: Common technologies and data analysis methods](https://www.ebi.ac.uk/training/online/courses/functional-genomics-ii-common-technologies-and-data-analysis-methods/)
+	- [III: Submitting your data and functional genomics databases](https://www.ebi.ac.uk/training/online/courses/functional-genomics-iii-submitting-data/)
+
 
 - [**SIB** NGS: Quality control, Alignment, Visualisation](https://github.com/sib-swiss/NGS-introduction-training) | [website](https://sib-swiss.github.io/NGS-introduction-training/)
 - [**Harvard Chan Bioinformatics Core** Accessing genomic reference and experimental sequencing data](https://github.com/hbctraining/Accessing_public_genomic_data) | [website](https://hbctraining.github.io/Accessing_public_genomic_data/)
