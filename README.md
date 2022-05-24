@@ -5,7 +5,8 @@
 
 A curated list of **bioinformatics training material**. All material is:
 
-- From University/Institution Training Courses (preferably with a GitHub/GitLab repository)
+- From University/Institution Training Courses (preferably with a GitHub/GitLab repository), or
+- Shared via an online registry, e.g ELIXIR's TeSS, GOBLET portal, OER commons etc; 
 - Free to use
 
 In the Table of Contents, we break down training materials into five main categories of
