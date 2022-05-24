@@ -15,7 +15,7 @@
 
 
 ### RNA-seq
----
+--
 For most of the courses in this section, some basic experience of using a UNIX/LINUX command line and some R knowledge are assumed and essential. 
 
 - [**UoM Bioinformatics Core Facilities** Guide to RNA-Seq Analysis](https://ycl6.gitbook.io/guide-to-rna-seq-analysis/)
