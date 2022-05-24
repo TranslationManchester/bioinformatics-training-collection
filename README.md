@@ -5,7 +5,7 @@
 
 A curated list of **bioinformatics training material**. All material is:
 
-- From a GitHub or GitLab repository or University/Institution Training Courses
+- From University/Institution Training Courses (preferably with a GitHub/GitLab repository)
 - Free to use
 
 In the Table of Contents, we break down training materials into five main categories of
