@@ -41,5 +41,9 @@ Any contribution to this list is highly appreciated.
   - [Reproducible research](reproducibility-and-data-management.md#reproducible-research)
   - [Data management](reproducibility-and-data-management.md#data-management)
 - [Other collections of bioinformatics resources](other-collections.md#other-collections-of-bioinformatics-resources)
+  - [Institutions](other-collections.md#institutions)
+  - [Online registry/training portals](other-collections.md#online-registrytraining-portals)
+
+
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
