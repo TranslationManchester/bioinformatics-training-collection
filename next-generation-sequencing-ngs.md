@@ -27,7 +27,7 @@
 - [**bioinformaticsworkbook.org** Differential Gene Expression analysis](https://github.com/ISUgenomics/bioinformatics-workbook) | [website](https://bioinformaticsworkbook.org/dataAnalysis/RNA-Seq/RNA-SeqIntro/Differential-Expression-Analysis.html#gsc.tab=0)
 
 - [**SIB** Introduction to RNA-Seq: From quality control to pathway analysis](https://github.com/sib-swiss/RNAseq-introduction-training) | [website](https://sib-swiss.github.io/RNAseq-introduction-training/)
-	- > Course designed for using a dedicated computer cluster 
+	> Course designed for using a dedicated computer cluster 
 
 - [**Harvard Chan Bioinformatics Core** Introduction to bulk RNA-seq](https://github.com/hbctraining/Intro-to-rnaseq-hpc-salmon-flipped) | [website](https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/schedule/links-to-lessons.html)
 - [**Harvard Chan Bioinformatics Core** Differential Gene Expression Analysis](https://github.com/hbctraining/DGE_workshop_salmon_online) | [website](https://hbctraining.github.io/DGE_workshop_salmon_online/schedule/links-to-lessons.html)
