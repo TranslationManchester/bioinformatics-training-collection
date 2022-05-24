@@ -33,6 +33,4 @@
 	> R Markdown
 
 
-### git
 
-- [**Carpentries** Version Control with Git](https://github.com/swcarpentry/git-novice) | [website](https://swcarpentry.github.io/git-novice/)

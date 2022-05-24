@@ -10,7 +10,7 @@ A curated list of **bioinformatics training material**. All material is:
 - Free to use
 
 We break down training materials into five main categories of bioinformatics skill.
- 
+
 Any contribution to this list is highly appreciated.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -21,7 +21,6 @@ Any contribution to this list is highly appreciated.
   - [UNIX shell](scripting-and-programming-languages.md#unix-shell)
   - [Python](scripting-and-programming-languages.md#python)
   - [R](scripting-and-programming-languages.md#r)
-  - [git](scripting-and-programming-languages.md#git)
 - [Next-Generation Sequencing (NGS)](next-generation-sequencing-ngs.md#next-generation-sequencing-ngs)
   - [General](next-generation-sequencing-ngs.md#general)
   - [RNA-seq](next-generation-sequencing-ngs.md#rna-seq)
@@ -37,7 +36,8 @@ Any contribution to this list is highly appreciated.
   - [Statistics](statistics-and-machine-learning.md#statistics)
   - [Machine learning](statistics-and-machine-learning.md#machine-learning)
 - [Reproducibility and data management](reproducibility-and-data-management.md#reproducibility-and-data-management)
-  - [Reproducibility](reproducibility-and-data-management.md#reproducibility)
+  - [Version control](reproducibility-and-data-management.md#git)
+  - [Reproducible research](reproducibility-and-data-management.md#reproducible-research)
   - [Data management](reproducibility-and-data-management.md#data-management)
 - [Other Collections of Bioinformatics Resources](other-collections.md#other-collections-of-bioinformatics-resources)
 
