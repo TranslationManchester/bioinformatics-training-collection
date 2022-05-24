@@ -3,13 +3,13 @@
 
 ## Preface
 
-A curated list of **bioinformatics training material**. All material is:
+A curated list of **bioinformatics training materials**. They are:
 
-- From University/Institution Training Courses (preferably with a GitHub/GitLab repository), or
+- From training courses from university/institution/the Carpentries (preferably with a GitHub/GitLab repository), or
 - Shared via an online registry, e.g ELIXIR's TeSS, GOBLET portal, OER commons etc; and
 - Free to use
 
-We break down training materials into five main categories of bioinformatics skill.
+We break down training materials into five main categories of bioinformatics skills.
 
 Any contribution to this list is highly appreciated.
 
@@ -35,10 +35,11 @@ Any contribution to this list is highly appreciated.
 - [Statistics and machine learning](statistics-and-machine-learning.md#statistics-and-machine-learning)
   - [Statistics](statistics-and-machine-learning.md#statistics)
   - [Machine learning](statistics-and-machine-learning.md#machine-learning)
+  - [Miscellaneous](statistics-and-machine-learning.md#miscellaneous)
 - [Reproducibility and data management](reproducibility-and-data-management.md#reproducibility-and-data-management)
   - [Version control](reproducibility-and-data-management.md#git)
   - [Reproducible research](reproducibility-and-data-management.md#reproducible-research)
   - [Data management](reproducibility-and-data-management.md#data-management)
-- [Other Collections of Bioinformatics Resources](other-collections.md#other-collections-of-bioinformatics-resources)
+- [Other collections of bioinformatics resources](other-collections.md#other-collections-of-bioinformatics-resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
