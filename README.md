@@ -25,6 +25,7 @@ Any contribution to this list is highly appreciated.
   - [General](next-generation-sequencing-ngs.md#general)
   - [RNA-seq](next-generation-sequencing-ngs.md#rna-seq)
   - [ChIP-seq](next-generation-sequencing-ngs.md#chip-seq)
+  - [ATAC-seq](next-generation-sequencing-ngs.md#atac-seq)  
   - [Single cell](next-generation-sequencing-ngs.md#single-cell)
   - [Variant analysis](next-generation-sequencing-ngs.md#variant-analysis)
   - [Genome assembly](next-generation-sequencing-ngs.md#genome-assembly) 

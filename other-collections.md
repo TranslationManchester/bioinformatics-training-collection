@@ -1,5 +1,5 @@
 
-## Other Collections of Bioinformatics Resources
+## Other collections of bioinformatics resources
 
 ### Institutions
 
