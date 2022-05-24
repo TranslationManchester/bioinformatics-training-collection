@@ -63,7 +63,7 @@
 
 - [**MGC/BioSB** Course - Single Cell Analysis](https://github.com/LeidenCBC/MGC-BioSB-SingleCellAnalysis2021)
 
-- [**Cambridge Bioinformatics Training Unit** Analysis of single cell RNA-seq data](https://github.com/hemberg-lab/scRNA.seq.course) | [GitHub](https://www.singlecellcourse.org/index.html)
+- [**Cambridge Bioinformatics Training Unit** Analysis of single cell RNA-seq data](https://www.singlecellcourse.org/index.html) | [GitHub](https://github.com/hemberg-lab/scRNA.seq.course)  
 
 - [**University of Cambridge / CRUK** Introduction to single-cell RNA-seq data analysis](https://bioinformatics-core-shared-training.github.io/UnivCambridge_ScRnaSeqIntro_Feb2022/)
  
@@ -80,7 +80,7 @@ https://yunshun.github.io/SingleCellWorkshop/) | [GitHub](https://github.com/yun
 
 - [**ELIXIR EXCELERATE** Single RNA-seq data analysis with R](https://nbisweden.github.io/excelerate-scRNAseq/) | [GitHub](https://github.com/NBISweden/excelerate-scRNAseq)
 
-- [**EBI** Single cell RNA-seq tutorial](https://mperalc.gitlab.io/scRNA-seq_workshop_2021/) | [GitHub](https://gitlab.com/mperalc/scRNA-seq_workshop_2021)
+- [**EBI** Single cell RNA-seq tutorial](https://mperalc.gitlab.io/scRNA-seq_workshop_2021/) | [GitLab](https://gitlab.com/mperalc/scRNA-seq_workshop_2021)
 
 
 
