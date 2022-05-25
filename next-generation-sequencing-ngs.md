@@ -1,3 +1,4 @@
+ 
 
 ## Next-Generation Sequencing (NGS)
 
@@ -98,6 +99,16 @@ https://yunshun.github.io/SingleCellWorkshop/) | [GitHub](https://github.com/yun
 
 - [**bioinformaticsworkbook.org** Introduction to Genome Assembly](https://bioinformaticsworkbook.org/dataAnalysis/GenomeAssembly/Intro_GenomeAssembly.html#gsc.tab=0) | [GitHub](https://github.com/ISUgenomics/bioinformatics-workbook)
 
+
+### Proteomics
+- [**EMBL-EBI** Proteomics bioinformatics](https://www.ebi.ac.uk/training/events/proteomics-bioinformatics-2021/)
+	> * Materials and live recording available. 
+	> * MaxQuant/Perseus tutorial: Day 3
+	> * MsqRob tutorial: Day 4  (Practical on Downstream quantitative analysis/statistics)
+
+### Pathway analysis
+
+- [**EMBL-EBI** Reactome Quick tour](https://www.ebi.ac.uk/training/online/courses/reactome-quick-tour/)
 
 ### Miscellaneous
 

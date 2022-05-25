@@ -1,20 +1,18 @@
+ 
 # A Collection of Bioinformatics Training Materials
 
 
 ## Preface
 
-A curated list of **bioinformatics training materials**. They are:
+A curated list of **bioinformatics training materials**, which are:
 
-- From training courses from university/institution/the Carpentries (preferably with a GitHub/GitLab repository), or
-- Shared via an online registry, e.g ELIXIR's TeSS, GOBLET portal, OER commons etc; and
-- Free to use
+- from university & institution training courses (preferably with a GitHub/GitLab repository), or
+- shared via an online registry, e.g ELIXIR's TeSS, GOBLET portal, OER commons etc; and
+- free to use and relatively sufficient for self-learning. 
 
-We break down training materials into five main categories of bioinformatics skills.
 
 Any contribution to this list is highly appreciated.
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+ 
 
 ## Contents 
 - [Scripting and programming languages](scripting-and-programming-languages.md#scripting-and-programming-languages)
@@ -29,6 +27,8 @@ Any contribution to this list is highly appreciated.
   - [Single cell](next-generation-sequencing-ngs.md#single-cell)
   - [Variant analysis](next-generation-sequencing-ngs.md#variant-analysis)
   - [Genome assembly](next-generation-sequencing-ngs.md#genome-assembly) 
+  - [Proteomics](next-generation-sequencing-ngs.md#proteomics)
+  - [Pathway analysis](next-generation-sequencing-ngs.md#pathway-analysis)
   - [Miscellaneous](next-generation-sequencing-ngs.md#miscellaneous)
 - [Computational environments and pipelines](computational-environments-and-pipelines.md#computational-environments-and-pipelines)
   - [High performance computing](computational-environments-and-pipelines.md#high-performance-computing)
@@ -45,6 +45,4 @@ Any contribution to this list is highly appreciated.
   - [Institutions](other-collections.md#institutions)
   - [Online registry/training portals](other-collections.md#online-registrytraining-portals)
 
-
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+ 
