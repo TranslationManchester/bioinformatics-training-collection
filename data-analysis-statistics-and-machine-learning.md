@@ -17,7 +17,7 @@
 ### Machine learning
 
 - [**SIB** Introduction to Machine Learning (Python)](https://github.com/sib-swiss/intro-machine-learning-training)
-
+	> Jupyter Noteoobks
 - [**RSE Sheffield** Deep Learning (Python)](https://rse.shef.ac.uk/training/deeplearning/)
 
 
