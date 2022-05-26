@@ -106,23 +106,34 @@ https://yunshun.github.io/SingleCellWorkshop/) | [GitHub](https://github.com/yun
 	> * MaxQuant/Perseus tutorial: Day 3
 	> * MsqRob tutorial: Day 4  (Practical on Downstream quantitative analysis/statistics)
 
+
+### Enrichment analysis
+
+- [**Waldron lab CUNY** Functional enrichment analysis of high-throughput omics data](https://waldronlab.io/enrichOmics/) | [GitHub](https://github.com/waldronlab/enrichOmics)
+	> microarrays and RNA-seq; DE analysis with limma, edgeR, DESeq2
+
+
+- [**WEHI**  Gene-set enrichment analysis workshop](https://davislaboratory.github.io/GenesetAnalysisWorkflow/) | [GitHub](https://github.com/DavisLaboratory/GenesetAnalysisWorkflow/)
+	> pre-processed RNA-seq data; singscore package
+
+- [**SIB** Enrichment Analysis](https://sib-swiss.github.io/enrichment-analysis-training/) | [GitHub](https://github.com/sib-swiss/enrichment-analysis-training/)
+	> including ggplot for visualisation
+
 ### Pathway analysis
 
 - [**EMBL-EBI** Reactome Quick tour](https://www.ebi.ac.uk/training/online/courses/reactome-quick-tour/)
 
-### Miscellaneous
 
-- [**James W. MacDonald** Introduction to Bioconductor annotation resources](https://jmacdon.github.io/Bioc2020Anno/) | [GitHub](https://github.com/jmacdon/Bioc2020Anno)
+### Public data
 
 - [**Waldron lab CUNY** Public data resources and Bioconductor](https://waldronlab.io/PublicDataResources/) | [GitHub](https://github.com/jmacdon/Bioc2020Anno)
 
-- [**Waldron lab CUNY** Functional enrichment analysis of high-throughput omics data](https://waldronlab.io/enrichOmics/) | [GitHub](https://github.com/waldronlab/enrichOmics)
-
-- [**WEHI**  Gene-set enrichment analysis workshop](https://davislaboratory.github.io/GenesetAnalysisWorkflow/) | [GitHub](https://github.com/DavisLaboratory/GenesetAnalysisWorkflow/)
-
 - [**Waldron lab CUNY** Multi-omic Integration of cBioPortal and TCGA data with MultiAssayExperiment](https://waldronlab.io/MultiAssayWorkshop/) | [GitHub](https://github.com/waldronlab/MultiAssayWorkshop/)
 
-- [**SIB** Enrichment Analysis](https://sib-swiss.github.io/enrichment-analysis-training/) | [GitHub](https://github.com/sib-swiss/enrichment-analysis-training/)
+
+- [**James W. MacDonald** Introduction to Bioconductor annotation resources](https://jmacdon.github.io/Bioc2020Anno/) | [GitHub](https://github.com/jmacdon/Bioc2020Anno)
+
+
 
 
 
