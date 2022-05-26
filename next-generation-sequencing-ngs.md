@@ -131,7 +131,7 @@ https://yunshun.github.io/SingleCellWorkshop/) | [GitHub](https://github.com/yun
 - [**Waldron lab CUNY** Multi-omic Integration of cBioPortal and TCGA data with MultiAssayExperiment](https://waldronlab.io/MultiAssayWorkshop/) | [GitHub](https://github.com/waldronlab/MultiAssayWorkshop/)
 
 
-- [**James W. MacDonald** Introduction to Bioconductor annotation resources](https://jmacdon.github.io/Bioc2020Anno/) | [GitHub](https://github.com/jmacdon/Bioc2020Anno)
+- [**James W. MacDonald, UW** Introduction to Bioconductor annotation resources](https://jmacdon.github.io/Bioc2020Anno/) | [GitHub](https://github.com/jmacdon/Bioc2020Anno)
 
 
 
