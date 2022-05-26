@@ -14,7 +14,9 @@
 
 - [**SIB** Docker and Singularity for reproducible research: getting started with containers](https://github.com/sib-swiss/containers-introduction-training) | [GitHub](https://sib-swiss.github.io/containers-introduction-training/latest/)
 
-- [**The Carpentries Incubator** Reproducible Computational Environments Using Containers: Introduction to Docker](https://carpentries-incubator.github.io/docker-introduction/) | [GitHub](https://github.com/carpentries-incubator/docker-introduction)
-- [**The Carpentries Incubator** Reproducible computational environments using containers: Introduction to Singularity](https://carpentries-incubator.github.io/singularity-introduction/) | [GitHub](https://github.com/carpentries-incubator/singularity-introduction) 
-- [**rOpenSci Labs** R Docker tutorial](https://jsta.github.io/r-docker-tutorial/) | [GitHub](https://github.com/jsta/r-docker-tutorial) 
+- [**The Carpentries Incubator** Introduction to Docker](https://carpentries-incubator.github.io/docker-introduction/) | [GitHub](https://github.com/carpentries-incubator/docker-introduction)
+
+- [**The Carpentries Incubator** Introduction to Singularity](https://carpentries-incubator.github.io/singularity-introduction/) | [GitHub](https://github.com/carpentries-incubator/singularity-introduction) 
+
+- [**rOpenSci Labs**](https://github.com/ropenscilabs) [A Docker tutorial for reproducible research](https://jsta.github.io/r-docker-tutorial/) | [GitHub](https://github.com/jsta/r-docker-tutorial) 
 
