@@ -1,9 +1,17 @@
+ 
+
 
 ## Other collections of bioinformatics resources
 
 ### Institutions
 
-- [ISU Genome Informatics Facility Bioinformatics Workbook](https://github.com/ISUgenomics/bioinformatics-workbook) | [website](https://bioinformaticsworkbook.org/#gsc.tab=0)
+- [ISU Genome Informatics Facility Bioinformatics Workbook](https://bioinformaticsworkbook.org/#gsc.tab=0) | [GitHub](https://github.com/ISUgenomics/bioinformatics-workbook)
+
+
+- [Harvard Chan Bioinformatics Core](https://bioinformatics.sph.harvard.edu/) 
+  - [Training webpage](http://bioinformatics.sph.harvard.edu/training/)
+  - [Training Materials](https://hbctraining.github.io/main/) | [GitHub](https://github.com/hbctraining)
+
 
 - [EMBL-EBI Training Materials](https://www.ebi.ac.uk/training/search-results?query=tutorial&domain=ebiweb_training_online&page=1&facets=)
  
@@ -14,11 +22,11 @@
 - [SIB Swiss Institute of Bioinformatics](https://github.com/sib-swiss) | [SIB Training Portal](https://edu.sib.swiss)
  
 
-- [Teaching materials at the Harvard Chan Bioinformatics Core](https://github.com/hbctraining/)
+- [National Bioinformatics Infrastructure Sweden (NBIS)](https://github.com/NBISweden)
 
-- [National Bioinformatics Infrastructure Sweden(NBIS)](https://github.com/NBISweden)
 
 - [The Monash Bioinformatics Platform](https://www.monash.edu/researchinfrastructure/bioinformatics/training)
+
 
 ### Online registry/training portals
 

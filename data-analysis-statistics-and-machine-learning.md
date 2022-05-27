@@ -5,18 +5,18 @@
 
 - [**Danielle Navarro** Learning Statistics with R ](https://learningstatisticswithr.com/book/) | [GitHub](https://github.com/djnavarro/rbook)
 
-- [**CRUK CI** Introduction to Statistical Analysis](http://bioinformatics-core-shared-training.github.io/IntroductionToStats/) | [GitHub](https://github.com/bioinformatics-core-shared-training/IntroductionToStats)
+- [**CRUK CI**](https://www.cruk.cam.ac.uk/)  &mdash; [ Introduction to Statistical Analysis](http://bioinformatics-core-shared-training.github.io/IntroductionToStats/) | [GitHub](https://github.com/bioinformatics-core-shared-training/IntroductionToStats)
 
-- [**CRUK CI** Experimental design](http://bioinformatics-core-shared-training.github.io/experimental-design/) | [GitHub](https://github.com/bioinformatics-core-shared-training/experimental-design)
+- [**CRUK CI**](https://www.cruk.cam.ac.uk/)  &mdash; [ Experimental design](http://bioinformatics-core-shared-training.github.io/experimental-design/) | [GitHub](https://github.com/bioinformatics-core-shared-training/experimental-design)
 
-- [**CRUK CI** linear-models-r](https://bioinformatics-core-shared-training.github.io/linear-models-r/) | [GitHub](https://github.com/bioinformatics-core-shared-training/linear-models-r)
+- [**CRUK CI**](https://www.cruk.cam.ac.uk/)  &mdash; [ linear-models-r](https://bioinformatics-core-shared-training.github.io/linear-models-r/) | [GitHub](https://github.com/bioinformatics-core-shared-training/linear-models-r)
 
-- [**SIB** Statistics and Machine Learning (Python)](https://github.com/sib-swiss/statistics-and-machine-learning-training)
+- [**SIB**](https://www.sib.swiss/) | [ Statistics and Machine Learning (Python)](https://github.com/sib-swiss/statistics-and-machine-learning-training)
 
 
 ### Machine learning
 
-- [**SIB** Introduction to Machine Learning (Python)](https://github.com/sib-swiss/intro-machine-learning-training)
+- [**SIB**](https://www.sib.swiss/) &mdash; [ Introduction to Machine Learning (Python)](https://github.com/sib-swiss/intro-machine-learning-training)
 	> Jupyter Noteoobks
 - [**RSE Sheffield** Deep Learning (Python)](https://rse.shef.ac.uk/training/deeplearning/)
 

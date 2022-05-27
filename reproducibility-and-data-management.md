@@ -4,11 +4,11 @@
 
 ### Version control
 
-- [**Carpentries** Version Control with Git](https://swcarpentry.github.io/git-novice/) | [GitHub](https://github.com/swcarpentry/git-novice)
+- [**Carpentries**](https://carpentries.org/) | [ Version Control with Git](https://swcarpentry.github.io/git-novice/) | [GitHub](https://github.com/swcarpentry/git-novice)
 
 ### Reproducible research
 
-- [**Harvard Chan Bioinformatics Core** Tools for Reproducible Research](https://hbctraining.github.io/reproducibility-tools/) | [GitHub](https://github.com/hbctraining/reproducibility-tools)
+- [**Harvard Chan Bioinformatics Core**](https://bioinformatics.sph.harvard.edu/) | [ Tools for Reproducible Research](https://hbctraining.github.io/reproducibility-tools/) | [GitHub](https://github.com/hbctraining/reproducibility-tools)
 	> Introduce the use of RMarkdown, Git version control and Github
 
 - [**The Carpentries Incubator** FAIR in (biological) practice](https://carpentries-incubator.github.io/fair-bio-practice/) | [GitHub](https://github.com/carpentries-incubator/fair-bio-practice)
@@ -22,6 +22,6 @@
 
 ### Data management
 
-- [**Carpentries** From a Spreadsheet to a Database](https://carpentries-incubator.github.io/capstone-novice-spreadsheet-biblio/) | [GitHub](https://github.com/carpentries-incubator/capstone-novice-spreadsheet-biblio)
+- [**Carpentries**](https://carpentries.org/) | [ From a Spreadsheet to a Database](https://carpentries-incubator.github.io/capstone-novice-spreadsheet-biblio/) | [GitHub](https://github.com/carpentries-incubator/capstone-novice-spreadsheet-biblio)
  
-- [**CRUK CI** Managing your Research Data: Best practices in Research Data Management for Biological Sciences](https://bioinformatics-core-shared-training.github.io/Managing-your-research-data/) | [GitHub](https://github.com/bioinformatics-core-shared-training/Managing-your-research-data)
+- [**CRUK CI**](https://www.cruk.cam.ac.uk/)  &mdash; [ Managing your Research Data: Best practices in Research Data Management for Biological Sciences](https://bioinformatics-core-shared-training.github.io/Managing-your-research-data/) | [GitHub](https://github.com/bioinformatics-core-shared-training/Managing-your-research-data)
