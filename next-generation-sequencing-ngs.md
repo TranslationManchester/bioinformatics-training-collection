@@ -109,6 +109,15 @@ https://yunshun.github.io/SingleCellWorkshop/) | [GitHub](https://github.com/yun
 - [**ELIXIR EXCELERATE**](https://elixir-europe.org/) &mdash; [ Single RNA-seq data analysis with R](https://nbisweden.github.io/excelerate-scRNAseq/) | [GitHub](https://github.com/NBISweden/excelerate-scRNAseq)
 
 
+### Spatial Transcriptomics
+- [**Scanpy Tutorial**](https://scanpy.readthedocs.io/en/stable/tutorials.html#) &mdash; [Spatial Data](https://scanpy.readthedocs.io/en/stable/tutorials.html#spatial-data) 
+
+
+
+
+### Genome assembly and annotation
+
+- [**ISU Bioinformatics Workbook**](https://bioinformaticsworkbook.org/#gsc.tab=0) &mdash; [Introduction to Genome Assembly](https://bioinformaticsworkbook.org/dataAnalysis/GenomeAssembly/Intro_GenomeAssembly.html#gsc.tab=0) | [GitHub](https://github.com/ISUgenomics/bioinformatics-workbook)
 
 
 
@@ -123,11 +132,6 @@ https://yunshun.github.io/SingleCellWorkshop/) | [GitHub](https://github.com/yun
 
 - [**Waldron lab CUNY**](https://waldronlab.io/) &mdash; [ Copy number variation analysis with Bioconductor](https://waldronlab.io/CNVWorkshop/) | [GitHub](https://github.com/waldronlab/CNVWorkshop)
 
-
-
-### Genome assembly
-
-- [**ISU Bioinformatics Workbook**](https://bioinformaticsworkbook.org/#gsc.tab=0) &mdash; [Introduction to Genome Assembly](https://bioinformaticsworkbook.org/dataAnalysis/GenomeAssembly/Intro_GenomeAssembly.html#gsc.tab=0) | [GitHub](https://github.com/ISUgenomics/bioinformatics-workbook)
 
 
 ### Proteomics
@@ -160,8 +164,9 @@ https://yunshun.github.io/SingleCellWorkshop/) | [GitHub](https://github.com/yun
 
 - [**Waldron lab CUNY**](https://waldronlab.io/) &mdash; [ Multi-omic Integration of cBioPortal and TCGA data with MultiAssayExperiment](https://waldronlab.io/MultiAssayWorkshop/) | [GitHub](https://github.com/waldronlab/MultiAssayWorkshop/)
 
-
 - [**James W. MacDonald, UW**](https://tools.niehs.nih.gov/srp/people/details.cfm?Person_ID=34924) &mdash;[Introduction to Bioconductor annotation resources](https://jmacdon.github.io/Bioc2020Anno/) | [GitHub](https://github.com/jmacdon/Bioc2020Anno)
+
+
 
 
 
