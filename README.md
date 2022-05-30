@@ -9,7 +9,7 @@
  - shared via an online registry, e.g ELIXIR's TeSS, GOBLET portal, OER commons etc; and
  - free to use and relatively sufficient for self-learning. 
 
-**2.** We break down the collected materials into five main categories of bioinformatics skills. Click the links below for more detailed lists in each category, including some brief notes to the courses. 
+**2.** We broadly organize the materials into five main categories of bioinformatics skills. Click the links below for more detailed lists in each category, including some brief notes to the courses. 
 
  
 Any contribution to this list is highly appreciated.
