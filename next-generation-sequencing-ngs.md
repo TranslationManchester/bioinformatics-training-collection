@@ -6,6 +6,10 @@ For most of the courses in this section, some basic experience of using a UNIX/L
 
 ### General
 
+- [**ManchesterBCF**](https://www.bmh.manchester.ac.uk/research/facilities/bioinformatics/) &mdash; 
+[Introduction to NGS analysis](https://www.youtube.com/playlist?list=PLLwM58CflFb-Cv0BQv-2XaY4-z-vq1-8l)
+	> Video Recordings
+
 - [**EMBL-EBI**](https://www.ebi.ac.uk/training/) &mdash; Functional genomics 
 	- [I: Introduction and designing experiments](https://www.ebi.ac.uk/training/online/courses/functional-genomics-i-introduction-and-design/)
 	- [II: Common technologies and data analysis methods](https://www.ebi.ac.uk/training/online/courses/functional-genomics-ii-common-technologies-and-data-analysis-methods/)
@@ -49,11 +53,17 @@ For most of the courses in this section, some basic experience of using a UNIX/L
 
 ### ChIP-seq
 
+- [**ManchesterBCF**](https://www.bmh.manchester.ac.uk/research/facilities/bioinformatics/) &mdash; 
+[ChIP-seq Analysis Using Galaxy (2015)](https://www.youtube.com/playlist?list=PLLwM58CflFb-8YrwzXIpJIWRJiX6izIEX) 
+	> Video Recordings
+
 - [**Harvard Chan Bioinformatics Core**](https://bioinformatics.sph.harvard.edu/) &mdash; [ Introduction to ChIP-seq using high performance computing](https://hbctraining.github.io/Intro-to-ChIPseq/) | [GitHub](https://github.com/hbctraining/Intro-to-ChIPseq)
 
 - [**CRUK CI**](https://www.cruk.cam.ac.uk/)  &mdash; [ Quantitiative analysis of ChiP-seq, ATAC-seq, and related DNA enrichment assays](https://github.com/bioinformatics-core-shared-training/Quantitative-ChIPseq-Workshop)
 
 - [**UMass** Integrated ChIP-seq Data Analysis Workshop](https://hukai916.github.io/IntegratedChIPseqWorkshop/) | [GitHub](https://github.com/hukai916/IntegratedChIPseqWorkshop/)
+
+
 
 
 ### ATAC-seq
@@ -156,6 +166,9 @@ https://yunshun.github.io/SingleCellWorkshop/) | [GitHub](https://github.com/yun
 
 ### Pathway analysis
 
+- [**ManchesterBCF**](https://www.bmh.manchester.ac.uk/research/facilities/bioinformatics/) &mdash;  [Using Ingenuity Pathway Analysis (IPA) at the University of Manchester](https://www.youtube.com/watch?v=KpSKd1PdrK0)
+	> Video Recordings
+	
 - [**EMBL-EBI**](https://www.ebi.ac.uk/training/) &mdash; [ Reactome Quick tour](https://www.ebi.ac.uk/training/online/courses/reactome-quick-tour/)
 
 
