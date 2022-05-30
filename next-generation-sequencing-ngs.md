@@ -2,6 +2,7 @@
 
 ## Next-Generation Sequencing (NGS)
 
+For most of the courses in this section, some basic experience of using a UNIX/LINUX command line and some R (or Python) knowledge are assumed and essential. 
 
 ### General
 
@@ -20,7 +21,7 @@
 
 ### RNA-seq
 
-> For most of the courses in this section, some basic experience of using a UNIX/LINUX command line and some R knowledge are assumed and essential. 
+
 
 - [**CRUK CI**](https://www.cruk.cam.ac.uk/)  &mdash; [ Introduction to Bulk RNA-seq data analysis](https://bioinformatics-core-shared-training.github.io/Bulk_RNAseq_Course_Apr22/) | [GitHub](https://github.com/bioinformatics-core-shared-training/Bulk_RNAseq_Course_Apr22)
 
