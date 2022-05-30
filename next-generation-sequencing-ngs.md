@@ -27,16 +27,19 @@ For most of the courses in this section, some basic experience of using a UNIX/L
 
 
 
+- [**ManchesterBCF**](https://www.bmh.manchester.ac.uk/research/facilities/bioinformatics/) &mdash; [Guide to RNA-Seq Analysis](https://ycl6.gitbook.io/guide-to-rna-seq-analysis/)
+
+
+
 - [**CRUK CI**](https://www.cruk.cam.ac.uk/)  &mdash; [ Introduction to Bulk RNA-seq data analysis](https://bioinformatics-core-shared-training.github.io/Bulk_RNAseq_Course_Apr22/) | [GitHub](https://github.com/bioinformatics-core-shared-training/Bulk_RNAseq_Course_Apr22)
 
 - [**Harvard Chan Bioinformatics Core**](https://bioinformatics.sph.harvard.edu/) &mdash; [ Introduction to bulk RNA-seq](https://hbctraining.github.io/Intro-to-rnaseq-hpc-salmon-flipped/schedule/links-to-lessons.html) | [GitHub](https://github.com/hbctraining/Intro-to-rnaseq-hpc-salmon-flipped)
 
 
-- [**Stefano Mangiola** A Tidy Transcriptomics introduction to RNA sequencing analyses](https://stemangiola.github.io/bioc_2020_tidytranscriptomics/) | [GitHub](https://github.com/stemangiola/bioc_2020_tidytranscriptomics/)
+- [**WEHI**](https://www.wehi.edu.au/) &mdash; [A Tidy Transcriptomics introduction to RNA sequencing analyses](https://stemangiola.github.io/bioc_2020_tidytranscriptomics/) | [GitHub](https://github.com/stemangiola/bioc_2020_tidytranscriptomics/)
 
-- [**UoM Bioinformatics Core Facilities** Guide to RNA-Seq Analysis](https://ycl6.gitbook.io/guide-to-rna-seq-analysis/)
 
-- [**Rockefeller University Bioinformatics Resource Center** RNAseq with Bioconductor](https://rockefelleruniversity.github.io/RU_RNAseq/index.html)  
+- [**Rockefeller University Bioinformatics Resource Center**](https://www.rockefeller.edu/bioinformatics/) &mdash; [RNAseq with Bioconductor](https://rockefelleruniversity.github.io/RU_RNAseq/index.html)  
 
 - [**ISU Bioinformatics Workbook**](https://bioinformaticsworkbook.org/#gsc.tab=0) &mdash; [RNA-Seq data Analysis](https://bioinformaticsworkbook.org/dataAnalysis/RNA-Seq/RNA-SeqIntro/RNAseq-using-a-genome.html#gsc.tab=0) | [GitHub](https://github.com/ISUgenomics/bioinformatics-workbook)
 
@@ -168,7 +171,7 @@ https://yunshun.github.io/SingleCellWorkshop/) | [GitHub](https://github.com/yun
 
 - [**ManchesterBCF**](https://www.bmh.manchester.ac.uk/research/facilities/bioinformatics/) &mdash;  [Using Ingenuity Pathway Analysis (IPA) at the University of Manchester](https://www.youtube.com/watch?v=KpSKd1PdrK0)
 	> Video Recordings
-	
+
 - [**EMBL-EBI**](https://www.ebi.ac.uk/training/) &mdash; [ Reactome Quick tour](https://www.ebi.ac.uk/training/online/courses/reactome-quick-tour/)
 
 
