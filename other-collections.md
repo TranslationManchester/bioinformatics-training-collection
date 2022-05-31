@@ -4,6 +4,7 @@
 ## Other collections of bioinformatics resources
 
 ### Institutions
+https://github.com/ossu/bioinformatics
 
 - [ISU Genome Informatics Facility Bioinformatics Workbook](https://bioinformaticsworkbook.org/#gsc.tab=0) | [GitHub](https://github.com/ISUgenomics/bioinformatics-workbook)
 
@@ -35,4 +36,10 @@
  - [GLOBET](https://www.mygoblet.org/training-materials/)
 
  - [OER Commons](https://www.oercommons.org/)
+
+### Miscellaneous
+
+ - [Open Source Society University: Path to a free self-taught education in Bioinformatics](https://github.com/ossu/bioinformatics)
+
+ - [Rosalind: a platform for learning bioinformatics and programming through problem solving](https://rosalind.info/problems/locations/)
 

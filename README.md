@@ -48,5 +48,6 @@ Any contribution to this list is highly appreciated.
 - [Other collections of bioinformatics resources](other-collections.md#other-collections-of-bioinformatics-resources)
   - [Institutions](other-collections.md#institutions)
   - [Online registry/training portals](other-collections.md#online-registrytraining-portals)
+  - [Miscellaneous](other-collections.md#miscellaneous)
 
  
