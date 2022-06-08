@@ -184,7 +184,7 @@ https://yunshun.github.io/SingleCellWorkshop/) | [GitHub](https://github.com/yun
 - [**James W. MacDonald, UW**](https://tools.niehs.nih.gov/srp/people/details.cfm?Person_ID=34924) &mdash;[Introduction to Bioconductor annotation resources](https://jmacdon.github.io/Bioc2020Anno/) | [GitHub](https://github.com/jmacdon/Bioc2020Anno)
 	> Instructions:
 	> * Option 1: Following the 'Preparation' section in the link workshop [homepage](https://jmacdon.github.io/Bioc2020Anno/) and going through the workshop through the Docker container created for this workshop.
-	> * Option 2: if not using Docker, download the workshop ``.Rdata`` through github page [here](https://github.com/jmacdon/Bioc2020Anno/tree/master/inst/extdata) and then follow the workshop materials [here](https://jmacdon.github.io/Bioc2020Anno/articles/AnnotationWorkshop.html).
+	> * Option 2: if not using Docker, download the workshop ``.Rdata`` through github page [here](https://github.com/jmacdon/Bioc2020Anno/tree/master/inst/extdata) and also install the individual R / Bioconductor packages used in this workshop listed [here](https://jmacdon.github.io/Bioc2020Anno/articles/AnnotationWorkshop.html#r-bioconductor-packages-used). Then follow the workshop materials [here](https://jmacdon.github.io/Bioc2020Anno/articles/AnnotationWorkshop.html).
 
 
 
