@@ -3,7 +3,7 @@
 
 <img src="image/bioinformatics.png"
      alt="A other-collections-of-bioinformatics-resources"
-     style="float: left; margin-right: 16px;" />
+     style="float: left; margin-right: 8px;" />
 
 **Preface**
 
