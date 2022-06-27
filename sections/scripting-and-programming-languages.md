@@ -16,12 +16,12 @@
 
 ### Python
 
-- [**Carpentries**](https://carpentries.org/) | [ Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/) | [GitHub](https://github.com/swcarpentry/python-novice-inflammation)
+- [**Carpentries**](https://carpentries.org/) &mdash;   [ Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/) | [GitHub](https://github.com/swcarpentry/python-novice-inflammation)
 
-- [**SIB**](https://www.sib.swiss/) | [ First Steps with Python in Life Sciences](https://github.com/sib-swiss/first-steps-with-python-training/) 
+- [**SIB**](https://www.sib.swiss/) &mdash; [ First Steps with Python in Life Sciences](https://github.com/sib-swiss/first-steps-with-python-training/) 
 	> Jupyter Notebook
 
-- [**Harvard Chan Bioinformatics Core**](https://bioinformatics.sph.harvard.edu/) | [ Introduction to Python](https://hbctraining.github.io/Training-modules/Python/) | [GitHub](https://github.com/hbctraining/Training-modules)
+- [**Harvard Chan Bioinformatics Core**](https://bioinformatics.sph.harvard.edu/) &mdash;[ Introduction to Python](https://hbctraining.github.io/Training-modules/Python/) | [GitHub](https://github.com/hbctraining/Training-modules)
 	> Jupyter Notebook
 
 - [**The Carpentries Incubator** Interactive Data Visualizations in Python](https://carpentries-incubator.github.io/python-interactive-data-visualizations/) | [GitHub](https://github.com/carpentries-incubator/python-interactive-data-visualizations)
@@ -30,19 +30,19 @@
 - [**N8CIR**](https://n8cir.org.uk/events/) &mdash; [  Reproducible Analyses in R](https://n8cir.org.uk/events/event-resource/analyses-r/)
 	> Videos available: RStudio, tidyverse, ggplot
 
-- [**Carpentries**](https://carpentries.org/) | [ R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/) | [GitHub](https://github.com/swcarpentry/r-novice-gapminder)
+- [**Carpentries**](https://carpentries.org/) &mdash;[ R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/) | [GitHub](https://github.com/swcarpentry/r-novice-gapminder)
 	> Including an introduction to RStudio
 
-- [**SIB**](https://www.sib.swiss/) | [ First Steps with R in Life Sciences](https://github.com/sib-swiss/first-steps-with-R-training) 
+- [**SIB**](https://www.sib.swiss/) &mdash;[ First Steps with R in Life Sciences](https://github.com/sib-swiss/first-steps-with-R-training) 
 	> Slides, codes and datasets provided
 
-- [**Harvard Chan Bioinformatics Core**](https://bioinformatics.sph.harvard.edu/) | [ Introduction to R](https://hbctraining.github.io/Intro-to-R-flipped/schedules/links-to-lessons.html) | [GitHub](https://github.com/hbctraining/Intro-to-R-flipped)
+- [**Harvard Chan Bioinformatics Core**](https://bioinformatics.sph.harvard.edu/) &mdash; [ Introduction to R](https://hbctraining.github.io/Intro-to-R-flipped/schedules/links-to-lessons.html) | [GitHub](https://github.com/hbctraining/Intro-to-R-flipped)
 	> RStudio
 
-- [**Harvard Chan Bioinformatics Core**](https://bioinformatics.sph.harvard.edu/) | [ Introduction to R - Practical workshop](https://hbctraining.github.io/Training-modules/IntroR_practical_online_resource/) | [GitHub](https://github.com/hbctraining/Training-modules)
+- [**Harvard Chan Bioinformatics Core**](https://bioinformatics.sph.harvard.edu/)&mdash;[ Introduction to R - Practical workshop](https://hbctraining.github.io/Training-modules/IntroR_practical_online_resource/) | [GitHub](https://github.com/hbctraining/Training-modules)
 	> RStudio
 
-- [**N8CIR**](https://n8cir.org.uk/events/) &mdash; [  R for Text Analysis](https://n8cir.org.uk/events/event-resource/r-text-analysis/)
+- [**N8CIR**](https://n8cir.org.uk/events/) &mdash; [ R for Text Analysis](https://n8cir.org.uk/events/event-resource/r-text-analysis/)
 	> Videos available
 
 
