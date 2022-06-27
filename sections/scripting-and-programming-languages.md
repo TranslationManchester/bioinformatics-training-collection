@@ -4,13 +4,13 @@
 
 ### UNIX shell
 
-- [**Carpentries**](https://carpentries.org/) | [ The Unix Shell](https://swcarpentry.github.io/shell-novice/) | [GitHub](https://github.com/swcarpentry/shell-novice)
+- [**Carpentries**](https://carpentries.org/) &mdash;  [ The Unix Shell](https://swcarpentry.github.io/shell-novice/) | [GitHub](https://github.com/swcarpentry/shell-novice)
 
-- [**Carpentries**](https://carpentries.org/) | [ Introduction to the Command Line for Genomics](https://datacarpentry.org/shell-genomics/) | [GitHub](https://github.com/datacarpentry/shell-genomics)
+- [**Carpentries**](https://carpentries.org/) &mdash;  [ Introduction to the Command Line for Genomics](https://datacarpentry.org/shell-genomics/) | [GitHub](https://github.com/datacarpentry/shell-genomics)
 
-- [**SIB**](https://www.sib.swiss/) | [](https://www.sib.swiss/) | [ Unix Tutorial](https://bioinformaticsworkbook.org/Appendix/Unix/unix-basics-1.html#gsc.tab=0) | [GitHub](https://edu.sib.swiss/pluginfile.php/2878/mod_resource/content/4/couselab-html/content.html)
+- [**SIB**](https://www.sib.swiss/) &mdash; [ Unix Tutorial](https://bioinformaticsworkbook.org/Appendix/Unix/unix-basics-1.html#gsc.tab=0) | [GitHub](https://edu.sib.swiss/pluginfile.php/2878/mod_resource/content/4/couselab-html/content.html)
 
-- [**bioinformaticsworkbook.org** Introduction to Unix](https://github.com/ISUgenomics/bioinformatics-workbook)  
+- [**ISU Bioinformatics Workbook**](https://bioinformaticsworkbook.org/#gsc.tab=0) &mdash; [Useful Programs and Unix Basics](https://bioinformaticsworkbook.org/Appendix/programs#gsc.tab=0) | [Github](https://github.com/ISUgenomics/bioinformatics-workbook)  
 	> Video available
 
 
