@@ -3,7 +3,7 @@
 
 <img src="image/bioinformatics.png"
      alt="A other-collections-of-bioinformatics-resources"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 8px;" />
 
 **Preface**
 
@@ -21,7 +21,7 @@ Any contribution to this list is highly appreciated.
 
 
 ## Table of Contents 
-- [Scripting and programming languages](scripting-and-programming-languages.md#scripting-and-programming-languages)
+- [Scripting and programming languages](image/scripting-and-programming-languages.md#scripting-and-programming-languages)
   - [UNIX shell](scripting-and-programming-languages.md#unix-shell)
   - [Python](scripting-and-programming-languages.md#python)
   - [R](scripting-and-programming-languages.md#r)
