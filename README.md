@@ -1,9 +1,13 @@
  
-# A Collection of Bioinformatics Training Materials
+# A Collection of Bioinformatics Learning/Training Materials
+
+<img src="image/bioinformatics.png"
+     alt="A other-collections-of-bioinformatics-resources"
+     style="float: left; margin-right: 10px;" />
 
 **Preface**
 
-**1.** Here is a curated list of **bioinformatics training materials**, which are:
+**1.** Here is a curated list of **bioinformatics learning/training materials**, which are:
 
  - from university & institution training courses (preferably with a GitHub/GitLab repository), or
  - shared via an online registry, e.g ELIXIR's TeSS, GOBLET portal, OER commons etc; and
