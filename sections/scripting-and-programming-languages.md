@@ -38,10 +38,10 @@
 	> Slides, codes and datasets provided
 
 - [**Harvard Chan Bioinformatics Core**](https://bioinformatics.sph.harvard.edu/) &mdash; [ Introduction to R](https://hbctraining.github.io/Intro-to-R-flipped/schedules/links-to-lessons.html) | [GitHub](https://github.com/hbctraining/Intro-to-R-flipped)
-	> RStudio
+	> For complete beginners; practical section via RStudio
 
 - [**Harvard Chan Bioinformatics Core**](https://bioinformatics.sph.harvard.edu/)&mdash;[ Introduction to R - Practical workshop](https://hbctraining.github.io/Training-modules/IntroR_practical_online_resource/) | [GitHub](https://github.com/hbctraining/Training-modules)
-	> RStudio
+	> For complete beginners; practical section via RStudio
 
 - [**N8CIR**](https://n8cir.org.uk/events/) &mdash; [ R for Text Analysis](https://n8cir.org.uk/events/event-resource/r-text-analysis/)
 	> Videos available
