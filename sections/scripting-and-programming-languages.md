@@ -8,7 +8,8 @@
 
 - [**Carpentries**](https://carpentries.org/) &mdash;  [ Introduction to the Command Line for Genomics](https://datacarpentry.org/shell-genomics/) | [GitHub](https://github.com/datacarpentry/shell-genomics)
 
-- [**SIB**](https://www.sib.swiss/) &mdash; [ Unix Tutorial](https://bioinformaticsworkbook.org/Appendix/Unix/unix-basics-1.html#gsc.tab=0) | [GitHub](https://edu.sib.swiss/pluginfile.php/2878/mod_resource/content/4/couselab-html/content.html)
+- [**SIB Training Portal**](https://www.sib.swiss/) &mdash; [UNIX Fundamentals](https://edu.sib.swiss/pluginfile.php/2878/mod_resource/content/4/couselab-html/content.html)
+	> Online interactive learning
 
 - [**ISU Bioinformatics Workbook**](https://bioinformaticsworkbook.org/#gsc.tab=0) &mdash; [Useful Programs and Unix Basics](https://bioinformaticsworkbook.org/Appendix/programs#gsc.tab=0) | [Github](https://github.com/ISUgenomics/bioinformatics-workbook)  
 	> Video available
