@@ -16,10 +16,14 @@
 
 ### Machine learning
 
+- [**Google Developer Groups**](https://developers.google.com/community/gdg) &mdash; [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+	>  with TensorFlow APIs: Google's fast-paced, practical introduction to machine learning
+
 - [**SIB**](https://www.sib.swiss/) &mdash; [ Introduction to Machine Learning (Python)](https://github.com/sib-swiss/intro-machine-learning-training)
 	> Jupyter Noteoobks
 
-- [**RSE Sheffield**](https://rse.shef.ac.uk/) &mdash; [ Deep Learning (Python)](https://rse.shef.ac.uk/training/deeplearning/)
+- [**RSE Sheffield**](https://rse.shef.ac.uk/) &mdash; [
+ Deep Learning (Python)](https://rse.shef.ac.uk/training/deeplearning/)
 
 
 
